@@ -7,7 +7,7 @@ from flask_upload_file import app
 
 
 def main():
-    app.run(host='0.0.0.0', port='5001', debug=False)
+    app.run(host='0.0.0.0', port='8848', debug=False)
 
 
 if __name__ == "__main__":
