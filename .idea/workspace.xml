@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59cda861-af16-47ad-b3b3-dd313d70df88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/flask-upload-file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/1寸蓝底.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/2020-02-25投前小程序后端代码反馈问题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/8E789E93EB4AF4568FCF5D3C5EBC7A6F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/Screenshot_20200305_140141_com.tencent.mm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/b76dbe0b919ddc81dd7750e41254ed67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/filename.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/oss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/状态集.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_upload_file/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_upload_file/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YjpsIrZAB4xkBt6wnDebEI1avp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask-upload-file" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="upload_file_view" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask-upload-file" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_upload_file/views" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_upload_file/views/upload_file_view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.upload_file_view" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59cda861-af16-47ad-b3b3-dd313d70df88" name="Default Changelist" comment="" />
+      <created>1583466062750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583466062750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583478692225">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583478692225" />
+    <state width="1345" height="134" key="GridCell.Tab.0.bottom" timestamp="1584278039921">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="134" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584278039921" />
+    <state width="1345" height="134" key="GridCell.Tab.0.center" timestamp="1584278039920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="134" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584278039920" />
+    <state width="1345" height="134" key="GridCell.Tab.0.left" timestamp="1584278039919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="134" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584278039919" />
+    <state width="1345" height="134" key="GridCell.Tab.0.right" timestamp="1584278039920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="134" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584278039920" />
+  </component>
+</project>

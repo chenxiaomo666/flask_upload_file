@@ -1,0 +1,11 @@
+db.Column()  # 第一个信息填数据库字段名字
+
+python除了类用驼峰大写，其他都是用下划线，内置方法用_单下划线开头，或者双下划线__
+
+service层和view层，区分，代码复用
+
+is_delete != 1，可能查不出来is_delete==None，
+
+auth("project") -> auth("pool")
+
+new_project, project_list_service迁到view层

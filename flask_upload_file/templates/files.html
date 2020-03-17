@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>帅气的陈小陌</title>
+</head>
+<body>
+    {% for file in file_list %}
+    查看or下载：<a href="{{ file.file_url }}">{{ file.file_name }}</a>
+    <br>
+    <br>
+    {% endfor %}
+    <a href="upload">再次上传</a>
+<br>
+CopyRight by 帅气的陈小陌
+</body>
+</html>
+
