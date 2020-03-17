@@ -5,7 +5,7 @@
 # Software : PyCharm
 from .. import db
 from ..models import User
-from flask import Blueprint, request, render_template, session
+from flask import Blueprint, request, render_template, session, redirect
 from ..services.help_func import base_query
 from werkzeug.security import generate_password_hash, check_password_hash
 
@@ -52,7 +52,7 @@ def login():
         user_passwd = user.passwd
         if check_password_hash(user_passwd, passwd):   # hash解密
             session["user_id"] = user.id
-            return "登录成功"
+            return redirect("/cxm/upload")
     
     return "用户名或密码错误，重新登录"
 
